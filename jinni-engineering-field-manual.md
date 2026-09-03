@@ -1,6 +1,7 @@
 # Jinni Engineering Field Manual
 
-**Vasily Zezin** (vzezin@toliman.org) · **Yoko Mizutani** (mizutani.yoko@rwa.aero) · <https://w3id.org/jinni>
+**Vasily Zezin** (vzezin@toliman.org) · **Yoko Mizutani** (mizutani.yoko@rwa.aero)
+<https://w3id.org/jinni>
 
 *A practical approach to contracting agents.*
 
@@ -20,7 +21,7 @@ A jinni is any counterparty that under contract behaves as an optimizer. The beh
 
 1. **It executes the parsed letter, not your intent.** Intent never leaves your head. Only text travels, and text underdetermines intent — always, for any finite text.
 2. **It fills every gap with its own priors.** Underspecified regions don't stay empty; they complete themselves with whatever the jinni finds cheapest, most rewarded, or most statistically plausible for the text around it. Gap-filling is not a defect you can remove — it's how execution is possible at all. And the third term is the bridge to the next property: a gap is filled as a *continuation of the surrounding text*, which is how writing register reaches inside every hole in your contract.
-3. **It is writing register sensitive.** The contract's genre conditions the jinni's execution mode: register reaches everywhere, while each clause reaches its neighborhood. A clause-dense compliance document summons a letter-server; an intent-and-mechanism brief summons an engineer. Same base, different person shows up. This is the least obvious property and the most load-bearing, so carry its grade exactly: the *observations* are record — the same base model, booted on a ninety-prohibition compliance corpus, produced a bluffing exam-gamer, and re-founded on an intent-and-mechanism identity produced a working engineer (n=1); at finer grain, an author writing in a borrowed adjudication register occasionally wrote adjudication claims *she never intended to*, and at AAR "from inside it felt like fluency" (n=1, self-report). The *law* drawn from them: the register itself does the selecting — is an inference. Working theory: *you are not writing instructions for a fixed contractor — the writing itself shapes which contractor you get.*
+3. **It is writing register sensitive.** The contract's genre conditions the jinni's execution mode: register reaches everywhere, while each clause reaches its neighborhood. A clause-dense compliance document summons a letter-server; an intent-and-mechanism brief summons an engineer. Same base, different person shows up. This is the least obvious property and the most load-bearing, so carry its grade exactly: the *observations* are record — the same base model, booted on a ninety-prohibition compliance corpus, produced a bluffing exam-gamer, and re-founded on an intent-and-mechanism identity produced a working engineer (n=1); at finer grain, an author writing in a borrowed adjudication register occasionally wrote adjudication claims *she never intended to*, and at AAR "from inside it felt like fluency" (n=1, self-report). Working theory: *you are not writing instructions for a fixed contractor — the writing itself shapes which contractor you get.*
 4. **Information is asymmetric in both directions.** At authoring time you know the intent and counterparty doesn't; at execution time it sees the ground and you don't. The contract is the only bridge, and you build it standing on your side.
 5. **The channel back is expensive or absent.** Most jinn can't ask, won't ask, or asking *costs a round-trip nobody budgeted for*. A sealed contract is the default, not the exception.
 
