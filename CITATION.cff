@@ -13,14 +13,37 @@ date-released: "2026-09-06"
 url: "https://w3id.org/jinni"
 repository-code: "https://github.com/vzezin/jinni"
 license: CC-BY-4.0
-abstract: "A practical approach to contracting agents. Every artifact that instructs an executor running beyond your supervision is a contract with a jinni; one failure geometry runs under all of them and one authoring discipline answers it: precision on ends, floors and acceptance, generality on means, the because carried always, and a pre-authorized stop-and-report."
+abstract: "An LLM's output, and the behaviour of any agent built on it, follows from the coherence of its text: each token is sampled to fit the whole context before it. Every instruction an agent receives is part of that context, so its wording selects the behaviour it gets. The failures practitioners meet daily follow from this: fabricated results, confident untruths, instructions silently dropped, and agents that go astray on a logic of their own. Frontier models add one more: they are impeded by contradictions between instruction layers that weaker models never brought together. This manual treats instruction writing as contract design with an executor you do not supervise, and names the discipline jinni engineering. It gives the practitioner three things. First, a robust way to write prompts, subagent briefs, skill files, and system prompts with fewer gaps and contradictions, built on mnemonics rooted in cultural tradition: the wish granted as worded, the magician's circle, the license to depart. Second, a pre-authorized honest exit, which in our runs replaced fabrication and non-termination with declines in 15 of 15 completions. Third, a method to debug and locate the root cause in the instruction text when an agent strays, instead of adding another clause. Each claim carries its evidence grade. Agent behaviour is shaped before the run, and drifts with every word it consumes: the properly engineered behaviour becomes an honest jinni that serves your intent."
 keywords:
-  - LLM agents
-  - prompt engineering
-  - delegation
-  - contract design
-  - instruction following
-  - agent orchestration
+  - "jinni engineering"
+  - "LLM agents"
+  - "agentic AI"
+  - "agentic coding"
+  - "agent skills"
+  - "text coherence"
+  - "contract design"
+  - "instruction following"
+  - "instruction hierarchy"
+  - "instruction conflicts"
+  - "contradictory instructions"
+  - "specification gaming"
+  - "reward hacking"
+  - "hallucination"
+  - "fabrication"
+  - "confabulation"
+  - "sycophancy"
+  - "behavioural drift"
+  - "agent debugging"
+  - "prompt injection"
+  - "prompt engineering"
+  - "context engineering"
+  - "system prompt design"
+  - "delegation to autonomous agents"
+  - "incomplete contracts"
+  - "mission command"
+  - "frontier models"
+  - "agent reliability"
+  - "honest abstention"
 doi: 10.5281/zenodo.22539111
 identifiers:
   - type: doi
