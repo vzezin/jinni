@@ -91,7 +91,7 @@ Be precise about what must be true when the jinni returns and what must never ha
 One budget law governs how much generality you can afford — derived from §2's properties, not measured, and holding so far: **generality is purchasable only in proportion to shared priors.** Auftragstaktik worked because the officer corps shared a doctrine; a one-page memo can carry verdicts without evidence because the reader trusts the sender's verification chain. That is what doctrine is *for* — glossaries, identity files, foundation: amortized contract cost, paid once so that every future contract can be shorter. Facing a stranger-jinni with no shared priors, spend more precision — on floors and acceptance, still never on means.
 
 ```mermaid
-flowchart LR
+flowchart TB
     I[intent<br/>in your head] -->|"leak 1: authoring<br/>(text underdetermines)"| C[contract]
     C -->|"leak 2: parse<br/>(register selects)"| M{who shows up?}
     M -->|clause-dense genre| L[letter-server]
