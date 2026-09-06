@@ -1,0 +1,19 @@
+{
+  "title": "Jinni Engineering Field Manual",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "description": "<p><em>A practical approach to contracting agents.</em></p><p>Every artifact that instructs an executor running beyond your supervision is a contract with a jinni: a prompt or brief handed to a subagent, a skill or standing procedure that instructs many future executions, a spec handed to a contractor, a tool description, a policy. One failure geometry runs under all of them, and one authoring discipline answers it: the contractor model, why over-precision fails, why vagueness is not the alternative, where precision goes (ends, floors, acceptance; means left free; the because carried always), the anatomy of a well-drawn contract, what lives outside the text, the handover procedure, contract classes (subagent, skill, human, guard), an abuse bestiary, a pre-issue checklist, and the contract the manual itself signs with its reader.</p><p>Permanent address: <a href=\"https://w3id.org/jinni\">https://w3id.org/jinni</a></p>",
+  "creators": [
+    {"name": "Zezin, Vasily"},
+    {"name": "Mizutani, Yoko"}
+  ],
+  "keywords": ["LLM agents", "prompt engineering", "delegation", "contract design", "instruction following", "agent orchestration", "Goodhart's law", "mission-type orders", "subagents", "skills", "system prompts", "instruction hierarchy"],
+  "language": "eng",
+  "version": "r10",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "related_identifiers": [
+    {"identifier": "https://w3id.org/jinni", "relation": "isIdenticalTo", "resource_type": "publication-report"},
+    {"identifier": "https://github.com/vzezin/jinni", "relation": "isSupplementedBy"}
+  ]
+}

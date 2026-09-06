@@ -16,3 +16,5 @@ We hope this JEFM saves you a few hours and a handful of megatokens.
 
 Authors welcome field reports and proposals.
 
+
+License: [CC BY 4.0](LICENSE).

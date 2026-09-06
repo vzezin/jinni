@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this manual, please cite it as below."
+title: "Jinni Engineering Field Manual"
+authors:
+  - family-names: Zezin
+    given-names: Vasily
+    email: vzezin@toliman.org
+  - family-names: Mizutani
+    given-names: Yoko
+    email: mizutani.yoko@rwa.aero
+version: r10
+date-released: "2026-09-06"
+url: "https://w3id.org/jinni"
+repository-code: "https://github.com/vzezin/jinni"
+license: CC-BY-4.0
+abstract: "A practical approach to contracting agents. Every artifact that instructs an executor running beyond your supervision is a contract with a jinni; one failure geometry runs under all of them and one authoring discipline answers it: precision on ends, floors and acceptance, generality on means, the because carried always, and a pre-authorized stop-and-report."
+keywords:
+  - LLM agents
+  - prompt engineering
+  - delegation
+  - contract design
+  - instruction following
+  - agent orchestration
+identifiers:
+  - type: url
+    value: "https://w3id.org/jinni"
+    description: "Permanent address"
+preferred-citation:
+  type: manual
+  title: "Jinni Engineering Field Manual"
+  authors:
+    - family-names: Zezin
+      given-names: Vasily
+    - family-names: Mizutani
+      given-names: Yoko
+  year: 2026
+  url: "https://w3id.org/jinni"
