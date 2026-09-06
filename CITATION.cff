@@ -21,7 +21,11 @@ keywords:
   - contract design
   - instruction following
   - agent orchestration
+doi: 10.5281/zenodo.22539111
 identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22539111"
+    description: "Zenodo record"
   - type: url
     value: "https://w3id.org/jinni"
     description: "Permanent address"
@@ -34,4 +38,5 @@ preferred-citation:
     - family-names: Mizutani
       given-names: Yoko
   year: 2026
+  doi: 10.5281/zenodo.22539111
   url: "https://w3id.org/jinni"

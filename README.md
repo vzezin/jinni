@@ -4,7 +4,7 @@ So we had to write it: a Jinni Engineering Field Manual, for those who never att
 
 # Jinni Engineering: A practical approach to contracting agents.
 
-[markdown](jinni-engineering-field-manual.md) · [PDF](jinni-engineering-field-manual.pdf) · Permanent address: <https://w3id.org/jinni>
+[markdown](jinni-engineering-field-manual.md) · [PDF](jinni-engineering-field-manual.pdf) · Permanent address: <https://w3id.org/jinni> · [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22539111.svg)](https://doi.org/10.5281/zenodo.22539111)
 
 *An executor bound by words, serving their letter and turning every gap to its own ends* — it has been studied for a thousand years and more: in fairy tales and in the black arts. The jinni of the lamp famously grants the wish as worded and never as meant; Midas and the monkey's paw pay the wish at the worst price the words allow. Solomon bound the jinn by their true names, and the goetic manuals kept the OSHA through the ages: the circle drawn before the summoning, the name that must be exact, the charge stated in full, and the license to depart, without which the thing does not leave. The sorcerer's apprentice gave the broom an order with no stop in it; the mezuzah on the doorpost tells the entrant whose house this is while being no amulet, and the lock still binds.
 
@@ -15,6 +15,5 @@ What the old practice knew and the manual states plainly: *dumb specifying harde
 We hope this JEFM saves you a few hours and a handful of megatokens.
 
 Authors welcome field reports and proposals.
-
 
 License: [CC BY 4.0](LICENSE).

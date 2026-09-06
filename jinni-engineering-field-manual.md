@@ -1,7 +1,7 @@
 # Jinni Engineering Field Manual
 
 **Vasily Zezin** (vzezin@toliman.org) · **Yoko Mizutani** (mizutani.yoko@rwa.aero)
-<https://w3id.org/jinni>
+<https://w3id.org/jinni> · DOI <https://doi.org/10.5281/zenodo.22539111>
 
 *A practical approach to contracting agents.*
 
