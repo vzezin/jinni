@@ -1,0 +1,15 @@
+%% The delegation loop and its leaks — §5 figure of the Jinni Engineering Field Manual.
+%% Source of the figure. The markdown references delegation-loop.svg beside it; md2pdf renders this file
+%% (clean, uniform mermaid/dagre render, labels as SVG text) and rewrites the .svg on every build.
+%%{init: {"flowchart": {"nodeSpacing": 40, "rankSpacing": 36, "wrappingWidth": 320}, "themeVariables": {"edgeLabelBackground": "#ffffff"}}}%%
+flowchart TB
+    I[intent<br/>in your head] -->|"leak 1: authoring<br/>(text underdetermines)"| C[contract]
+    C -->|"leak 2: parse<br/>(register selects,<br/>contradictions impede)"| M{who shows up?}
+    M -->|clause-dense genre| L[letter-server<br/>archetype]
+    M -->|intent + mechanism| E[engineer<br/>archetype]
+    L --> X["execution<br/>leak 3: gaps filled by priors"]
+    E --> X
+    X --> R[return]
+    R -->|"work-sample acceptance<br/>against intent, not text coherence"| F["fold lessons:<br/>what the behaviour taught"]
+    R -.->|"stop-and-report:<br/>root cause analysis"| F
+    F -.->|"priors investment:<br/>foundation, doctrine, glossary"| I
