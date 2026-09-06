@@ -40,7 +40,8 @@
     "mission command",
     "frontier models",
     "agent reliability",
-    "honest abstention"
+    "abstention",
+    "stop-and-report"
   ],
   "language": "eng",
   "version": "r10",

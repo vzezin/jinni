@@ -43,7 +43,8 @@ keywords:
   - "mission command"
   - "frontier models"
   - "agent reliability"
-  - "honest abstention"
+  - "abstention"
+  - "stop-and-report"
 doi: 10.5281/zenodo.22539111
 identifiers:
   - type: doi
