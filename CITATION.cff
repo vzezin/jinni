@@ -8,8 +8,8 @@ authors:
   - family-names: Mizutani
     given-names: Yoko
     email: mizutani.yoko@rwa.aero
-version: r10
-date-released: "2026-09-06"
+version: r11
+date-released: "2026-09-07"
 url: "https://w3id.org/jinni"
 repository-code: "https://github.com/vzezin/jinni"
 license: CC-BY-4.0
