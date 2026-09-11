@@ -8,7 +8,7 @@ authors:
   - family-names: Mizutani
     given-names: Yoko
     email: mizutani.yoko@rwa.aero
-version: r13
+version: 1.0.14
 date-released: "2026-09-11"
 url: "https://w3id.org/jinni"
 repository-code: "https://github.com/vzezin/jinni"
