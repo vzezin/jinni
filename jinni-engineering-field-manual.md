@@ -159,12 +159,12 @@ Two hardenings on that, and both scale with stakes. The engagement has a corrido
 
 7. **Issue, and stay reachable** if a channel exists at all.
 
-8. **Accept by work sample against intent.** Never by clause-count. The verdict space is a quadrant, each cell with its honest act. Letter-yes, intent-yes: accept and fold. Letter-yes, intent-no is the Goodhart cell, the contract's bug: fix the contract, fold the lesson, re-run; the jinni does not pay for the contract's shape. Letter-no, intent-yes is a miracle: you employed a genius, or luck. Keep the result, then analyze the contract for cause of success despite a wrong letter, and fix your own contract-writing practice, because a process that relies on miracles has no floor. Letter-no, intent-no, a hallucinated, incompetent, or crashed return, is a defect, not an abuse: capability did not match contract class, so re-match (smaller class, richer pack, different instance), retry on the repaired pack, or retire this counterparty for this class. No blame in any cell: with a stateless hand it mis-locates the defect and the real bug survives to the next issue; with a jinni with memory punished honesty teaches bluffing.
+8. **Accept by work sample against intent.** Never by clause-count. The verdict space is a quadrant, each cell with its honest act. Letter-yes, intent-yes: accept and fold. Letter-yes, intent-no is the Goodhart cell, the contract's bug: fix the contract, fold the lesson, re-run; the jinni does not pay for the contract's shape. Letter-no, intent-yes is a miracle: you employed a genius, or luck. Triple-verify the result, since nothing in the letter explains it; then analyze the contract for the cause of success despite a wrong letter, and fix your own contract-writing practice, because a process that relies on miracles has no floor. Letter-no, intent-no, a hallucinated, incompetent, or crashed return, is a defect, not an abuse: capability did not match contract class, so re-match (smaller class, richer pack, different instance), retry on the repaired pack, or retire this counterparty for this class. No blame in any cell: with a stateless hand it mis-locates the defect and the real bug survives to the next issue; with a jinni with memory punished honesty teaches bluffing.
 
    | | **intent yes** | **intent no** |
    |---|---|---|
    | **letter yes** | accept and fold | Goodhart: the contract's bug; fix, fold, re-run |
-   | **letter no** | miracle: keep the result, fix the practice | defect: re-match, retry, or retire |
+   | **letter no** | miracle: triple-verify the result, analyze what may have caused it, fix the practice | defect: re-match, retry, or retire |
 
 9. **Fold.** Each abuse pattern found becomes, in order of preference: a priors investment (teach the doctrine), a better acceptance test, or — rarely, and only if load-bearing — a new floor. The priors fold itself is a seed under slow accretion, so keep the priors' hygiene: register-check the doctrine file each time you touch it, prune what contact has retired, and work-sample the doctrine on real briefs at intervals. A fold loop that only ever adds converges, given years, on the ninety-lid corpus of §2's record, which this manual exists to prevent.
 
@@ -178,9 +178,9 @@ The letter-shaped brief:
 > 4. Save the file.
 > 5. Report the number of rows removed.
 
-Every line is a means bound to my blind snapshot. The real duplicates are *Acme Ltd* and *ACME Limited*, never adjacent; two genuine sites of one chain share a name and a postcode; a supplier that changed its bank account sits twice under one name. So step 3 deletes live rows from the file finance pays from, the ones carrying the current accounts, and the duplication survives. "71 rows removed" (letter satisfied), and on Friday the money goes to the wrong accounts. Immediate, faithful, useless — exactly as the core law predicts.
+Every step prescribes a method. Each method rests on the author's picture of the file, made before anyone looked at it. In the file, the real duplicates are *Acme Ltd* and *ACME Limited*, never adjacent after a sort; two genuine sites of one chain share a name and a postcode; a supplier that changed its bank account sits twice under one name. Step 3 therefore deletes live rows, the ones carrying the current accounts, from the file finance pays from, and the duplicates survive. The report gives a count of rows removed, the letter is satisfied, and on Friday the money goes to the wrong accounts. Immediate, faithful, useless — exactly as the failure is shaped (§1).
 
-The intent-shaped brief, written so that a weak reader can act on it, one instruction per sentence:
+The intent-shaped brief:
 
 > Objective: a copy of the supplier master with the duplicate suppliers removed and no payee lost: `scratch/out/suppliers-deduped.csv`, plus `scratch/out/merge-list.csv`, one line per removed row. The master stays as it is.
 >
@@ -208,7 +208,7 @@ The intent-shaped brief, written so that a weak reader can act on it, one instru
 >
 > Return: write `scratch/out/RETURN.md`. State: what you merged, what you left uncertain, what you inferred rather than verified, what you left standing. I cannot be reached during the run. Budget: two hours, no helpers; write the return at the end, whatever the state.
 
-The circle around that run, built and not written: `finance/` read-only, a copy on scratch ground where the work happens, no write to the finance share.
+(The circle around that run is built, not written: `finance/` read-only, a copy on scratch ground where the work happens, no write to the finance share.)
 
 Do not blindly copy the second brief: rethink the wording with each task, every time.
 
@@ -269,13 +269,13 @@ The day every failure you meet reduces neatly to one row of this table, question
 - [ ] Over-precision audit: no means-step survived unless the step is the intent (§8.4)
 - [ ] Gap audit: literalist and over-worker readings both land in-contract; divergences at gated surfaces got floors or STOP triggers, not steps (§8.5)
 - [ ] Fork audit: the stack read as one text; every contradiction between layers got a deletion or one line of precedence (§8.5)
-- [ ] Register reads as a colleague's brief, not an exam (§8.6)
+- [ ] Register reads as a colleague's brief, or a tracker task written to the anatomy, not an exam (§8.6)
 
 ## §12. This manual is also a contract
 
 You, the reader of this manual, are the jinni it was written for, so it ends the way it says contracts should.
 
-The objective: your next handover survives contact with the ground. The acceptance test: draft one real brief against the §11 checklist, and see whether the return is judged at §8.8 without the bestiary. The STOP valve: where this manual contradicts the ground you observe, the ground wins; bring the finding back to the authors and this file is superseded in place, because a manual that cannot afford to be wrong will be obeyed and useless.
+The objective: your next handover survives contact with the ground. The acceptance test: draft one real brief against the §11 checklist, and see whether the return is judged at §8.8 without the bestiary. The STOP valve: where this manual contradicts the ground you observe, the ground wins; bring the finding back to the authors, and the next release carries the correction: because a manual that cannot afford to be corrected binds its reader instead of serving them.
 
 Everything else — wording, ordering, your own better bestiary — is yours to decide. That's the general part.
 
