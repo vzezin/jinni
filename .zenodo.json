@@ -57,13 +57,5 @@
       "identifier": "https://github.com/vzezin/jinni",
       "relation": "isSupplementedBy"
     }
-  ],
-  "communities": [
-    {
-      "identifier": "empirical-software-engineering"
-    },
-    {
-      "identifier": "agentic"
-    }
   ]
 }
